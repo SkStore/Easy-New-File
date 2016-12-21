@@ -24,3 +24,6 @@ Easy New File is a finder extension which adds some functions in right click men
 https://itunes.apple.com/us/app/easy-new-file-new-file-here/id1162194131
 
 ![](https://github.com/SkStore/Easy-New-File/blob/master/0x0ss.jpg)
+
+## Issues
+  <a href="https://github.com/SkStore/Easy-New-File/issues"> Go to create issue </a> 
