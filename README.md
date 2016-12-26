@@ -27,6 +27,6 @@ https://itunes.apple.com/us/app/easy-new-file-new-file-here/id1162194131
 
 ## iTerm 2 support
  You can download this or waitting for iTerm update next year (version 3.1)
- <a href="https://github.com/SkStore/Easy-New-File/blob/master/iTerm2beta.zip"> TouchBarServer.zip </a> 
+ <a href="https://github.com/SkStore/Easy-New-File/blob/master/iTerm2beta.zip"> iTerm2beta.zip </a> 
 ## Issues
   <a href="https://github.com/SkStore/Easy-New-File/issues"> Go to create issue </a> 
