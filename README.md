@@ -21,11 +21,19 @@ Easy New File is a finder extension which adds some functions in right click men
   
 
 ## AppStore
-https://itunes.apple.com/us/app/easy-new-file-new-file-here/id1162194131
 
+ <a href="https://itunes.apple.com/us/app/easy-new-file-new-file-here/id1162194131"> Go to Download Free</a> 
+  
 ![](https://github.com/SkStore/Easy-New-File/blob/master/0x0ss.jpg)
 
+## Mac Informer
+
+ <a href="http://macdownload.informer.com/easy-new-file-free/"> Go to Download Free</a> 
+  
+![](https://github.com/SkStore/Easy-New-File/blob/master/mac%20informer%20210x85.png)
+
 ## iTerm 2 support
+
  You can download this or waitting for iTerm update next year (version 3.1)
  <a href="https://github.com/SkStore/Easy-New-File/blob/master/iTerm2beta.zip"> iTerm2beta.zip </a> 
 ## Issues
