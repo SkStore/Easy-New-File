@@ -22,7 +22,7 @@ Easy New File is a finder extension which adds some functions in right click men
 
 ## AppStore
 
- <a href="https://itunes.apple.com/us/app/easy-new-file-new-file-here/id1162194131"> Go to Download Free</a> 
+ <a href="https://itunes.apple.com/us/app/easy-new-file/id1162194131?ls=1&mt=12"> Go to Download Free</a> 
   
 ![](https://github.com/SkStore/Easy-New-File/blob/master/0x0ss.jpg)
 
